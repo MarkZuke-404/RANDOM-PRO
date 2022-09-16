@@ -81,7 +81,7 @@ def main_apv():
         print ("")
         myid=uuid.uuid4().hex[:10]
         print ("         YOUR KEY : "+myid+imt)
-        kok=open("/sdcard/Subhan.txt",'w')
+        kok=open("/sdcard/Rakib.txt",'w')
         kok.write(myid+imt)
         kok.close()
         print ("")
@@ -90,7 +90,7 @@ def main_apv():
         print ("")
         print ("")
         print ("")
-        print('\x1b[1;92m'            If You Subscribe your Key 🗝️ !")
+        
         raw_input("  then Exit The Termux And Put The Commond And run Again Thanks ❣️")
         os.system("xdg-open https://wa.me/+9660531382117")
         
