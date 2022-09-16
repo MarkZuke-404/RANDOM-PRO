@@ -90,8 +90,7 @@ def main_apv():
         print ("")
         print ("")
         print ("")
-        
-        raw_input("  then Exit The Termux And Put The Commond And run Again Thanks ❣️")
+      raw_input("  then Exit The Termux And Put The Commond And run Again Thanks ❣️")
         os.system("xdg-open https://wa.me/+9660531382117")
         
     r1=requests.get("https://github.com/MarkZuke-404/approve.text/blob/main/appro.txt").text
